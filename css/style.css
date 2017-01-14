@@ -1,0 +1,42 @@
+body{
+	background-color: black;
+	margin: auto;
+	padding: auto;
+}
+.container{
+	width: 1200px;
+	background-color: #202020;
+}
+#photo1{
+	border-radius: 50%;
+	margin: 0 auto;
+	padding-top: auto;
+}
+
+li:hover{
+	background-color: blue;
+}
+
+li{
+	list-style: none;/*on enleve les points*/
+	border: 0px solid black;
+	border-left: none;
+	border-right: none;
+	padding: 30px;
+	text-align: center;
+	color: white;
+}
+#droite{
+	background-color: white;
+	text-align: center;
+	padding-top: 30px;
+}
+h1{
+	font-size: 33px;
+}
+h2{
+	font-size: 15px;
+}
+p{
+	font-size:12px;
+}
